@@ -16,7 +16,7 @@ export const list = [
         id: 4,
         name: 'rectangle',
         image: rect,
-        title:'Mountain everrest'
+        title:'Bridge'
     },
 
     {
@@ -31,6 +31,6 @@ export const list = [
         id: 2,
         name: 'triangle',
         image: triangle,
-        title:'Mountain everrest'
+        title:'Sun set'
     },
 ]
